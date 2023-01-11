@@ -1,0 +1,20 @@
+body {
+    background-color: #F8EDE3;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+    border-color: #D0B8A8;
+    border-style: dotted none none;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1,
+h3 {
+    color: #85586F;
+}
+
+.profile {
+    border-radius: 100%;
+}
